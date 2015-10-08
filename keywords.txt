@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For WheatstoneBridge
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+WheatstoneBridge	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+measureForce	KEYWORD2
+getLastForce	KEYWORD2
+getLastForceRawADC	KEYWORD2
+linearCalibration	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
