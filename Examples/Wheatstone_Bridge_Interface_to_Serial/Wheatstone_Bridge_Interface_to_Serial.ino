@@ -14,8 +14,6 @@
 
 #include <WheatstoneBridge.h>
 
-byte wheatstonePin = A1;
-
 WheatstoneBridge wsb(A1, 365, 565, 0, 1000);
 
 void setup()
