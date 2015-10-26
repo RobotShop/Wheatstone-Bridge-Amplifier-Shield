@@ -1,5 +1,5 @@
 // Include support function header
-#include "strain_gauge_shield_support_functions.h"
+#include "strain_gauge_shield_and_lcd_support_functions.h"
 
 // Return the first pressed button found
 byte read_LCD_buttons()

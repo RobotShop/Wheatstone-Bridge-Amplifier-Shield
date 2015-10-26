@@ -23,7 +23,7 @@
 #include <LiquidCrystal.h>
 
 // Include support function header
-#include "strain_gauge_shield_support_functions.h"
+#include "strain_gauge_shield_and_lcd_support_functions.h"
 
 // Initialize the library with the numbers of the interface pins
 LiquidCrystal lcd(8, 9, 4, 5, 6, 7);
