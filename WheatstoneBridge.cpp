@@ -19,6 +19,7 @@
 */
 WheatstoneBridge::WheatstoneBridge(byte AnalogPin, int inputMin, int inputMax, int outputMin, int outputMax)
 {
+	iPin = AnalogPin;
 	pinMode(iPin, INPUT);
 	iMin = inputMin;
 	iMax = inputMax;

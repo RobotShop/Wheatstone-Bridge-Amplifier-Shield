@@ -34,7 +34,7 @@ class WheatstoneBridge
 	private:
 	// < Local attributes >
 		// Hardware
-		byte iPin = A1;
+		byte iPin = A1;			// Defaults to "Strain 2"
 		
 		// Calibration
 		int iMin = 0;
