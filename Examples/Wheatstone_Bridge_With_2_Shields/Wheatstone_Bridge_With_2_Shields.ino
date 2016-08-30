@@ -9,7 +9,7 @@
 	Changes history:
 	2016-08-29
 	v1.10-19
-	Added example for 2 shield / 4 load cells.
+	Added example for 2 shields / 4 load cells.
 	
 	2016-07-28
 	v1.10-16
